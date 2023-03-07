@@ -1,0 +1,15 @@
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.csproj.AssemblyReference.cache
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.AssemblyInfoInputs.cache
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.AssemblyInfo.cs
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.csproj.CoreCompileInputs.cache
+C:\Users\XZSDFVB\mainTask\bin\Debug\net6.0\mainTask.exe
+C:\Users\XZSDFVB\mainTask\bin\Debug\net6.0\mainTask.deps.json
+C:\Users\XZSDFVB\mainTask\bin\Debug\net6.0\mainTask.runtimeconfig.json
+C:\Users\XZSDFVB\mainTask\bin\Debug\net6.0\mainTask.dll
+C:\Users\XZSDFVB\mainTask\bin\Debug\net6.0\mainTask.pdb
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.dll
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\refint\mainTask.dll
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.pdb
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\mainTask.genruntimeconfig.cache
+C:\Users\XZSDFVB\mainTask\obj\Debug\net6.0\ref\mainTask.dll
